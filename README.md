@@ -1,2 +1,3 @@
 # hello-world
-Learning GitHub - first repository
+
+I am committing to learning to program. Wish me luck!
